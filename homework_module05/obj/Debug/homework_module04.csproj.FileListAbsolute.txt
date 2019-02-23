@@ -1,0 +1,6 @@
+c:\users\тынышбаева\source\repos\homework_module05\homework_module05\bin\Debug\homework_module05.exe.config
+c:\users\тынышбаева\source\repos\homework_module05\homework_module05\bin\Debug\homework_module05.exe
+c:\users\тынышбаева\source\repos\homework_module05\homework_module05\bin\Debug\homework_module05.pdb
+c:\users\тынышбаева\source\repos\homework_module05\homework_module05\obj\Debug\homework_module04.csproj.CoreCompileInputs.cache
+c:\users\тынышбаева\source\repos\homework_module05\homework_module05\obj\Debug\homework_module05.exe
+c:\users\тынышбаева\source\repos\homework_module05\homework_module05\obj\Debug\homework_module05.pdb
